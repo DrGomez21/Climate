@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Climate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/bg_buttonColor</item>
+        <item name="colorOnPrimary">@color/font</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/font</item>
+        <item name="colorOnSecondary">@color/background</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/background</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:statusBarColor">@color/background</item>
+    </style>
+</resources>

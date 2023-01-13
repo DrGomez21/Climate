@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Climate</string>
+    <string name="buscar_ciudad">Buscar Ciudad…</string>
+    <string name="mas_informacion">Más información</string>
+    <string name="vientos">Vientos</string>
+    <string name="humedad">Humedad</string>
+    <string name="termica">Sensación térmica</string>
+    <string name="clima_ahora">Ver el clima ahora</string>
+    <string name="icon_del_clima">icon del clima</string>
+    <string name="description_viento">Icon de viento</string>
+    <string name="description_humedad">icon de humedad</string>
+    <string name="description_termica">Icon de termica</string>
+    <string name="info_busqueda"><u>Más info de la búsqueda</u></string>
+    <string name="dialog_content">Para mayor precisión en la búsqueda, puedes usar el código del país luego de una coma.\nPor ejemplo:\n\tLuque,PY\n\tBuenos Aires,AR\n\tMonterrey,MX\n</string>
+</resources>
